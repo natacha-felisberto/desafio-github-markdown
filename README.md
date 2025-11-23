@@ -10,4 +10,17 @@
 
 ![Natacha Felisberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=natacha-felisberto&show_icons=true&theme=radical)
 
+🎓 Formações: 
+
+        Análise e Desenvolvimento de Sistemas
+        Universidade Estácio de Sá | concluído 2021
+
+        Tecnologia em Gestão de Turismo
+        Cefet | 2013
+
+
+📜 Certificações:
+
+        Cursos da DIO (em breve...)
+
 Meu README ainda está em fase de testes e construção...
